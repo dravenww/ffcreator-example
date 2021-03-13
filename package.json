@@ -1,0 +1,23 @@
+{
+  "name": "ffcreator-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "image": "node ./src/image",
+    "album": "",
+    "subtitle": "",
+    "transition": "",
+    "video": ""
+  },
+  "repository": {
+    "url": "git@github.com:dravenww/ffcreator-example.git",
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ffcreator": "^1.4.5"
+  }
+}
